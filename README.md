@@ -1,2 +1,2 @@
 # TrafficLight
-![Alt text](lights.png?raw=true "Task")
+![Alt text](lights.png)
