@@ -1,2 +1,2 @@
 # TrafficLight
-![Alt text](lights.png)
+![Alt text](https://github.com/SemBarner22/TrafficLight/blob/master/light.png)
